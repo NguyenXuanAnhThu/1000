@@ -9,3 +9,4 @@ void main()
         s+=i;
     printf("Tong S(%d) la = %d",n,s);
 }
+bai1 trùng với bài 77
